@@ -1,0 +1,1 @@
+{"version":3,"sources":["game.css"],"names":[],"mappings":"AAAA,KACI,qBACJ,CAEA,OACI,UACJ,CAEA,eACI,UAAW,CACX,iBAAkB,CAClB,WACJ","file":"game.dc5f5488.css","sourceRoot":"..","sourcesContent":["body {\n    background-color: #000000;\n}\n\n.title {\n    color: #ffffff;\n}\n\n.canvas-holder {\n    width: 100%;\n    text-align: center;\n    margin: auto;\n}"]}
